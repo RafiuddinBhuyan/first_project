@@ -9,4 +9,3 @@ int main()
     cout << "abaro okk" << endl;
     return 0;
 }
-# first_project
