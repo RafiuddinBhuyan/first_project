@@ -6,6 +6,7 @@ int main()
     cin >> a;
     cout << a << endl;
     cout << "this is okk" << endl;
+    cout << "abaro okk" << endl;
     return 0;
 }
 # first_project
